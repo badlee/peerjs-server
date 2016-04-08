@@ -1,5 +1,13 @@
 # PeerServer Changelog
 
+### 0.2.9
+
+* Add support for configurable credits
+* Add optional custom logger
+* Add support for authentification
+* Add support for room (KEY) validtation 
+* Bug fix : disallow multiple connections with same id
+
 ### 0.2.6
 
 * Ensure 16 character IDs.
